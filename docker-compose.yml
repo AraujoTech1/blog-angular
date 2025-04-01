@@ -1,0 +1,6 @@
+version: '3'
+services:
+  blog-angular:
+    build: .
+    ports:
+      - "4200:4200"
