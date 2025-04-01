@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
 ![Versão](https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge)
 
-## Descrição do Projeto
+## Descrição 
 
 O My Blog Angular é um site focado na documentação de linguagens de programação. Ele foi criado para ser um recurso prático e rápido para desenvolvedores, especialmente iniciantes. O projeto exibe cards interativos que, ao serem clicados, redirecionam para a documentação oficial de cada linguagem.
 
@@ -37,7 +37,7 @@ Para garantir o bom funcionamento do projeto, foram realizados:
 [![CSS & SCSS](https://img.shields.io/badge/CSS%20&%20SCSS-🎨%20Estilização%20Avançada-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-📱%20Responsividade%20Garantida-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-## Documentação do Projeto
+## Documentação 
 
 | Tecnologia | Status | Progresso |
 |------------|--------|-----------|
