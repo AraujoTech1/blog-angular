@@ -38,8 +38,8 @@ Para garantir o bom funcionamento do projeto, foram realizados:
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-📱%20Responsividade%20Garantida-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ## Documentação 
-[Angular](https://angular.io/docs)
-[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-[Node.js](https://nodejs.org/pt-br/docs/)
-[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Angular](https://angular.io/docs)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+- [Node.js](https://nodejs.org/pt-br/docs/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
